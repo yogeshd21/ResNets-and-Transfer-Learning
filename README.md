@@ -5,5 +5,6 @@ My Test results for the CIFAR-10 dataset were as follows (CIFAR 10.cvs) and the 
 
 ![image](https://user-images.githubusercontent.com/83297868/167275309-6c0e6ba1-f69a-4e61-825c-44f81f909866.png)
 
-My Test results for the CIFAR-100 dataset were as follows and the best accuracy was 51.8%
+My Test results for the CIFAR-100 dataset were as follows (CIFAR 100.cvs) and the best accuracy was 51.8%
 
+![image](https://user-images.githubusercontent.com/83297868/167275340-9c957a8d-6931-4bb1-9d46-5787ad826969.png)
