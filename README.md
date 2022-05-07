@@ -11,4 +11,4 @@ My Test results for the CIFAR-100 dataset were as follows (CIFAR 100.cvs) and th
 ![image](https://user-images.githubusercontent.com/83297868/167275340-9c957a8d-6931-4bb1-9d46-5787ad826969.png)
 
 # ResNet50 Transfer Learning
-After using the pre-trained ResNet-50 I could get an accuracy of on 70.72 with CIFAR-10 dataset and an accuracy of 53.62 with CIFAR-100 dataset. The performance seems similar to ResNet-20 but may be with some different parameters could have achieved performance as good as the best model cases for ResNet-20.
+After using the pre-trained ResNet-50 I could get an accuracy of on 70.72% with CIFAR-10 dataset and an accuracy of 53.62% with CIFAR-100 dataset. The performance seems similar to ResNet-20 but may be with some different parameters could have achieved performance as good as the best model cases for ResNet-20.
